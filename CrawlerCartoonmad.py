@@ -4,7 +4,7 @@ import datetime
 import os
 from requests.models import Response
 import time
-# 要爬的漫畫網 Domain
+# 要爬的漫畫網 Domain 
 domainUrl = 'https://www.cartoonmad.com'
 # 作品頁 Ex: https://www.cartoonmad.com/comic/4982.html
 url = f'{domainUrl}/comic/4982.html'
